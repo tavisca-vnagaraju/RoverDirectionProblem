@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverDirections", "RoverDirections\RoverDirections.csproj", "{AA50501A-55F8-463B-B92A-90D01BF0125F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverDirectionsTests", "RoverDirectionsTests\RoverDirectionsTests.csproj", "{88DCA2E2-5A43-42BB-AB96-C3518BC14A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA50501A-55F8-463B-B92A-90D01BF0125F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA50501A-55F8-463B-B92A-90D01BF0125F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA50501A-55F8-463B-B92A-90D01BF0125F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA50501A-55F8-463B-B92A-90D01BF0125F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DCA2E2-5A43-42BB-AB96-C3518BC14A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DCA2E2-5A43-42BB-AB96-C3518BC14A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DCA2E2-5A43-42BB-AB96-C3518BC14A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DCA2E2-5A43-42BB-AB96-C3518BC14A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BF7B32-E875-43AB-9A9A-8ABF743A7BFC}
+	EndGlobalSection
+EndGlobal
